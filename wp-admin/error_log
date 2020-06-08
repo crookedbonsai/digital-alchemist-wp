@@ -1,0 +1,75 @@
+[21-May-2020 14:40:00 UTC] PHP Warning:  sprintf(): Too few arguments in /home/digita29/repositories/staging/digital-alchemist/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[21-May-2020 14:40:00 UTC] PHP Stack trace:
+[21-May-2020 14:40:00 UTC] PHP   1. {main}() /home/digita29/repositories/staging/digital-alchemist/wp-admin/themes.php:0
+[21-May-2020 14:40:00 UTC] PHP   2. require_once() /home/digita29/repositories/staging/digital-alchemist/wp-admin/themes.php:10
+[21-May-2020 14:40:00 UTC] PHP   3. do_action() /home/digita29/repositories/staging/digital-alchemist/wp-admin/admin.php:254
+[21-May-2020 14:40:00 UTC] PHP   4. WP_Hook->do_action() /home/digita29/repositories/staging/digital-alchemist/wp-includes/plugin.php:478
+[21-May-2020 14:40:00 UTC] PHP   5. WP_Hook->apply_filters() /home/digita29/repositories/staging/digital-alchemist/wp-includes/class-wp-hook.php:311
+[21-May-2020 14:40:00 UTC] PHP   6. TGM_Plugin_Activation->install_plugins_page() /home/digita29/repositories/staging/digital-alchemist/wp-includes/class-wp-hook.php:287
+[21-May-2020 14:40:00 UTC] PHP   7. TGMPA_List_Table->process_bulk_actions() /home/digita29/repositories/staging/digital-alchemist/wp-content/themes/airi/inc/tgmpa/class-tgm-plugin-activation.php:658
+[21-May-2020 14:40:00 UTC] PHP   8. TGMPA_Bulk_Installer->bulk_install() /home/digita29/repositories/staging/digital-alchemist/wp-content/themes/airi/inc/tgmpa/class-tgm-plugin-activation.php:2892
+[21-May-2020 14:40:00 UTC] PHP   9. TGMPA_Bulk_Installer->run() /home/digita29/repositories/staging/digital-alchemist/wp-content/themes/airi/inc/tgmpa/class-tgm-plugin-activation.php:3286
+[21-May-2020 14:40:00 UTC] PHP  10. TGMPA_Bulk_Installer->run() /home/digita29/repositories/staging/digital-alchemist/wp-content/themes/airi/inc/tgmpa/class-tgm-plugin-activation.php:3173
+[21-May-2020 14:40:00 UTC] PHP  11. TGMPA_Bulk_Installer_Skin->after() /home/digita29/repositories/staging/digital-alchemist/wp-admin/includes/class-wp-upgrader.php:807
+[21-May-2020 14:40:00 UTC] PHP  12. TGMPA_Bulk_Installer_Skin->after() /home/digita29/repositories/staging/digital-alchemist/wp-content/themes/airi/inc/tgmpa/class-tgm-plugin-activation.php:3553
+[21-May-2020 14:40:00 UTC] PHP  13. sprintf() /home/digita29/repositories/staging/digital-alchemist/wp-admin/includes/class-bulk-upgrader-skin.php:152
+[21-May-2020 14:40:21 UTC] PHP Warning:  sprintf(): Too few arguments in /home/digita29/repositories/staging/digital-alchemist/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[21-May-2020 14:40:21 UTC] PHP Stack trace:
+[21-May-2020 14:40:21 UTC] PHP   1. {main}() /home/digita29/repositories/staging/digital-alchemist/wp-admin/themes.php:0
+[21-May-2020 14:40:21 UTC] PHP   2. require_once() /home/digita29/repositories/staging/digital-alchemist/wp-admin/themes.php:10
+[21-May-2020 14:40:21 UTC] PHP   3. do_action() /home/digita29/repositories/staging/digital-alchemist/wp-admin/admin.php:254
+[21-May-2020 14:40:21 UTC] PHP   4. WP_Hook->do_action() /home/digita29/repositories/staging/digital-alchemist/wp-includes/plugin.php:478
+[21-May-2020 14:40:21 UTC] PHP   5. WP_Hook->apply_filters() /home/digita29/repositories/staging/digital-alchemist/wp-includes/class-wp-hook.php:311
+[21-May-2020 14:40:21 UTC] PHP   6. TGM_Plugin_Activation->install_plugins_page() /home/digita29/repositories/staging/digital-alchemist/wp-includes/class-wp-hook.php:287
+[21-May-2020 14:40:21 UTC] PHP   7. TGMPA_List_Table->process_bulk_actions() /home/digita29/repositories/staging/digital-alchemist/wp-content/themes/airi/inc/tgmpa/class-tgm-plugin-activation.php:658
+[21-May-2020 14:40:21 UTC] PHP   8. TGMPA_Bulk_Installer->bulk_install() /home/digita29/repositories/staging/digital-alchemist/wp-content/themes/airi/inc/tgmpa/class-tgm-plugin-activation.php:2892
+[21-May-2020 14:40:21 UTC] PHP   9. TGMPA_Bulk_Installer->run() /home/digita29/repositories/staging/digital-alchemist/wp-content/themes/airi/inc/tgmpa/class-tgm-plugin-activation.php:3286
+[21-May-2020 14:40:21 UTC] PHP  10. TGMPA_Bulk_Installer->run() /home/digita29/repositories/staging/digital-alchemist/wp-content/themes/airi/inc/tgmpa/class-tgm-plugin-activation.php:3173
+[21-May-2020 14:40:21 UTC] PHP  11. TGMPA_Bulk_Installer_Skin->after() /home/digita29/repositories/staging/digital-alchemist/wp-admin/includes/class-wp-upgrader.php:807
+[21-May-2020 14:40:21 UTC] PHP  12. TGMPA_Bulk_Installer_Skin->after() /home/digita29/repositories/staging/digital-alchemist/wp-content/themes/airi/inc/tgmpa/class-tgm-plugin-activation.php:3553
+[21-May-2020 14:40:21 UTC] PHP  13. sprintf() /home/digita29/repositories/staging/digital-alchemist/wp-admin/includes/class-bulk-upgrader-skin.php:152
+[21-May-2020 14:40:57 UTC] PHP Warning:  sprintf(): Too few arguments in /home/digita29/repositories/staging/digital-alchemist/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[21-May-2020 14:40:57 UTC] PHP Stack trace:
+[21-May-2020 14:40:57 UTC] PHP   1. {main}() /home/digita29/repositories/staging/digital-alchemist/wp-admin/themes.php:0
+[21-May-2020 14:40:57 UTC] PHP   2. require_once() /home/digita29/repositories/staging/digital-alchemist/wp-admin/themes.php:10
+[21-May-2020 14:40:57 UTC] PHP   3. do_action() /home/digita29/repositories/staging/digital-alchemist/wp-admin/admin.php:254
+[21-May-2020 14:40:57 UTC] PHP   4. WP_Hook->do_action() /home/digita29/repositories/staging/digital-alchemist/wp-includes/plugin.php:478
+[21-May-2020 14:40:57 UTC] PHP   5. WP_Hook->apply_filters() /home/digita29/repositories/staging/digital-alchemist/wp-includes/class-wp-hook.php:311
+[21-May-2020 14:40:57 UTC] PHP   6. TGM_Plugin_Activation->install_plugins_page() /home/digita29/repositories/staging/digital-alchemist/wp-includes/class-wp-hook.php:287
+[21-May-2020 14:40:57 UTC] PHP   7. TGMPA_List_Table->process_bulk_actions() /home/digita29/repositories/staging/digital-alchemist/wp-content/themes/airi/inc/tgmpa/class-tgm-plugin-activation.php:658
+[21-May-2020 14:40:57 UTC] PHP   8. TGMPA_Bulk_Installer->bulk_install() /home/digita29/repositories/staging/digital-alchemist/wp-content/themes/airi/inc/tgmpa/class-tgm-plugin-activation.php:2892
+[21-May-2020 14:40:57 UTC] PHP   9. TGMPA_Bulk_Installer->run() /home/digita29/repositories/staging/digital-alchemist/wp-content/themes/airi/inc/tgmpa/class-tgm-plugin-activation.php:3286
+[21-May-2020 14:40:57 UTC] PHP  10. TGMPA_Bulk_Installer->run() /home/digita29/repositories/staging/digital-alchemist/wp-content/themes/airi/inc/tgmpa/class-tgm-plugin-activation.php:3173
+[21-May-2020 14:40:57 UTC] PHP  11. TGMPA_Bulk_Installer_Skin->after() /home/digita29/repositories/staging/digital-alchemist/wp-admin/includes/class-wp-upgrader.php:807
+[21-May-2020 14:40:57 UTC] PHP  12. TGMPA_Bulk_Installer_Skin->after() /home/digita29/repositories/staging/digital-alchemist/wp-content/themes/airi/inc/tgmpa/class-tgm-plugin-activation.php:3553
+[21-May-2020 14:40:57 UTC] PHP  13. sprintf() /home/digita29/repositories/staging/digital-alchemist/wp-admin/includes/class-bulk-upgrader-skin.php:152
+[21-May-2020 14:44:44 UTC] PHP Warning:  sprintf(): Too few arguments in /home/digita29/repositories/staging/digital-alchemist/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[21-May-2020 14:44:44 UTC] PHP Stack trace:
+[21-May-2020 14:44:44 UTC] PHP   1. {main}() /home/digita29/repositories/staging/digital-alchemist/wp-admin/themes.php:0
+[21-May-2020 14:44:44 UTC] PHP   2. require_once() /home/digita29/repositories/staging/digital-alchemist/wp-admin/themes.php:10
+[21-May-2020 14:44:44 UTC] PHP   3. do_action() /home/digita29/repositories/staging/digital-alchemist/wp-admin/admin.php:254
+[21-May-2020 14:44:44 UTC] PHP   4. WP_Hook->do_action() /home/digita29/repositories/staging/digital-alchemist/wp-includes/plugin.php:478
+[21-May-2020 14:44:44 UTC] PHP   5. WP_Hook->apply_filters() /home/digita29/repositories/staging/digital-alchemist/wp-includes/class-wp-hook.php:311
+[21-May-2020 14:44:44 UTC] PHP   6. TGM_Plugin_Activation->install_plugins_page() /home/digita29/repositories/staging/digital-alchemist/wp-includes/class-wp-hook.php:287
+[21-May-2020 14:44:44 UTC] PHP   7. TGMPA_List_Table->process_bulk_actions() /home/digita29/repositories/staging/digital-alchemist/wp-content/themes/airi/inc/tgmpa/class-tgm-plugin-activation.php:658
+[21-May-2020 14:44:44 UTC] PHP   8. TGMPA_Bulk_Installer->bulk_install() /home/digita29/repositories/staging/digital-alchemist/wp-content/themes/airi/inc/tgmpa/class-tgm-plugin-activation.php:2892
+[21-May-2020 14:44:44 UTC] PHP   9. TGMPA_Bulk_Installer->run() /home/digita29/repositories/staging/digital-alchemist/wp-content/themes/airi/inc/tgmpa/class-tgm-plugin-activation.php:3286
+[21-May-2020 14:44:44 UTC] PHP  10. TGMPA_Bulk_Installer->run() /home/digita29/repositories/staging/digital-alchemist/wp-content/themes/airi/inc/tgmpa/class-tgm-plugin-activation.php:3173
+[21-May-2020 14:44:44 UTC] PHP  11. TGMPA_Bulk_Installer_Skin->after() /home/digita29/repositories/staging/digital-alchemist/wp-admin/includes/class-wp-upgrader.php:807
+[21-May-2020 14:44:44 UTC] PHP  12. TGMPA_Bulk_Installer_Skin->after() /home/digita29/repositories/staging/digital-alchemist/wp-content/themes/airi/inc/tgmpa/class-tgm-plugin-activation.php:3553
+[21-May-2020 14:44:44 UTC] PHP  13. sprintf() /home/digita29/repositories/staging/digital-alchemist/wp-admin/includes/class-bulk-upgrader-skin.php:152
+[21-May-2020 14:44:47 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/digita29/repositories/staging/digital-alchemist/wp-includes/update.php on line 162
+[21-May-2020 14:44:47 UTC] PHP Stack trace:
+[21-May-2020 14:44:47 UTC] PHP   1. {main}() /home/digita29/repositories/staging/digital-alchemist/wp-admin/themes.php:0
+[21-May-2020 14:44:47 UTC] PHP   2. require_once() /home/digita29/repositories/staging/digital-alchemist/wp-admin/themes.php:10
+[21-May-2020 14:44:47 UTC] PHP   3. do_action() /home/digita29/repositories/staging/digital-alchemist/wp-admin/admin.php:254
+[21-May-2020 14:44:47 UTC] PHP   4. WP_Hook->do_action() /home/digita29/repositories/staging/digital-alchemist/wp-includes/plugin.php:478
+[21-May-2020 14:44:47 UTC] PHP   5. WP_Hook->apply_filters() /home/digita29/repositories/staging/digital-alchemist/wp-includes/class-wp-hook.php:311
+[21-May-2020 14:44:47 UTC] PHP   6. TGM_Plugin_Activation->install_plugins_page() /home/digita29/repositories/staging/digital-alchemist/wp-includes/class-wp-hook.php:287
+[21-May-2020 14:44:47 UTC] PHP   7. TGMPA_List_Table->process_bulk_actions() /home/digita29/repositories/staging/digital-alchemist/wp-content/themes/airi/inc/tgmpa/class-tgm-plugin-activation.php:658
+[21-May-2020 14:44:47 UTC] PHP   8. TGMPA_Bulk_Installer->bulk_install() /home/digita29/repositories/staging/digital-alchemist/wp-content/themes/airi/inc/tgmpa/class-tgm-plugin-activation.php:2892
+[21-May-2020 14:44:47 UTC] PHP   9. do_action() /home/digita29/repositories/staging/digital-alchemist/wp-content/themes/airi/inc/tgmpa/class-tgm-plugin-activation.php:3321
+[21-May-2020 14:44:47 UTC] PHP  10. WP_Hook->do_action() /home/digita29/repositories/staging/digital-alchemist/wp-includes/plugin.php:478
+[21-May-2020 14:44:47 UTC] PHP  11. WP_Hook->apply_filters() /home/digita29/repositories/staging/digital-alchemist/wp-includes/class-wp-hook.php:311
+[21-May-2020 14:44:47 UTC] PHP  12. wp_version_check() /home/digita29/repositories/staging/digital-alchemist/wp-includes/class-wp-hook.php:285
+[21-May-2020 14:44:47 UTC] PHP  13. trigger_error() /home/digita29/repositories/staging/digital-alchemist/wp-includes/update.php:162

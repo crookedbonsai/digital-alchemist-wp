@@ -1,0 +1,45 @@
+
+---Downloaded files---
+The import files for: Agency were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://www.staging.digital-alchemist.co.uk
+Data file = /home/digita29/repositories/staging/digital-alchemist/wp-content/plugins/airi-demo-importer/demo-content/airi-dc-agency.xml
+Widget file = /home/digita29/repositories/staging/digital-alchemist/wp-content/plugins/airi-demo-importer/demo-content/airi-w-agency.wie
+Customizer file = /home/digita29/repositories/staging/digital-alchemist/wp-content/plugins/airi-demo-importer/demo-content/airi-c-agency.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+Footer 1 : 
+
+Text - No Title - Imported
+
+Footer 2 : 
+
+Text - Contact us - Imported
+
+footer-3 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - Quick links - Imported to Inactive
+
+footer-4 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Airi: Social Profile - Follow us - Imported to Inactive
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
